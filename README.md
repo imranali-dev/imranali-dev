@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imran-ali13/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imranali.dev/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]([https://www.instagram.com/imranali.dev/](https://66e12466b77c4f8b28e1924b--peppy-choux-a07162.netlify.app/))
+[![Instagram Badge]([https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white](https://66e12466b77c4f8b28e1924b--peppy-choux-a07162.netlify.app/))]([https://www.instagram.com/imranali.dev/](https://66e12466b77c4f8b28e1924b--peppy-choux-a07162.netlify.app/))
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
